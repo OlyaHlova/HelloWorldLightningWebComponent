@@ -1,0 +1,2 @@
+# HelloWorldLightningWebComponent
+HelloWorldLightningWebComponent for Salesforce learning
